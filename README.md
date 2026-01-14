@@ -30,3 +30,4 @@ Além do design fofo, este projeto foca em conceitos importantes do Front-end:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🚀 Como Jogar
+O jogo está disponível para ser acessado online através do GitHub Pages! Acesse por esse link:
